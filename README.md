@@ -28,6 +28,7 @@ Lorem&nbsp;ipsum&nbsp;dolor&nbsp;sit&nbsp;amet,&nbsp;consectetur&nbsp;adipiscing
 
 
 
+# <div style="text-align: center;"><h1 style="font-family: 'Times New Roman', serif; color: purple; text-shadow: 2px 2px 4px #000000; letter-spacing: 3px;">Hi, I'm Andrea</h1></div>
 
 
 # <div style="text-align: center;"><h1 style="font-family: Arial; color: #0066ff; text-shadow: 2px 2px 4px #000000; letter-spacing: 3px;">Hi, I'm Andrea</h1></div>
