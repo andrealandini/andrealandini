@@ -18,3 +18,18 @@
 [![](https://visitcount.itsvg.in/api?id=andrealandini&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <h1>Tech Stack</h1>
+    <ul>
+        <li><i class="fab fa-python"></i> Python</li>
+        <li><i class="fas fa-terminal"></i> R Console</li>
+        <li><i class="fas fa-code"></i> C</li>
+        <li><i class="fas fa-code"></i> C++</li>
+    </ul>
+</body>
+</html>
