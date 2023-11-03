@@ -17,6 +17,13 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
+<div style="text-align: justify; text-justify: auto;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur gravida odio vel dui porta, non suscipit mauris lacinia. Sed commodo tortor at lectus suscipit fermentum. Sed pharetra sem eu augue consequat, et lacinia nibh ullamcorper. Ut euismod, ex a tincidunt viverra, nisl elit cursus nunc, sit amet consequat turpis sapien vel nunc. Vivamus dapibus lorem id risus volutpat, sit amet fringilla lectus dictum.
+</div>
+
+<div style="text-align: justify;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur gravida odio vel dui porta, non suscipit mauris lacinia. Sed commodo tortor at lectus suscipit fermentum. Sed pharetra sem eu augue consequat, et lacinia nibh ullamcorper. Ut euismod, ex a tincidunt viverra, nisl elit cursus nunc, sit amet consequat turpis sapien vel nunc. Vivamus dapibus lorem id risus volutpat, sit amet fringilla lectus dictum.
+</div>
 
 <div style="text-align: justify; text-justify: auto;">
 Welcome to my GitHub profile! Here, you'll find a collection of projects that reflect my passion for innovation, problem-solving, and continuous learning in the world of technology. I am dedicated to creating impactful and versatile solutions, ranging from software development to various technological experiments. My repositories showcase a diverse range of interests, from web development, machine learning, and data analysis to various tools and utilities. I believe in the power of collaboration and open-source contributions, and I'm enthusiastic about sharing knowledge and fostering a vibrant community. Feel free to explore the repositories, contribute, or provide feedback. Together, let's explore the possibilities of technology and create a more connected and innovative world.
