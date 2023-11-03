@@ -25,7 +25,22 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur gravida odio 
 
 
 # <span style="color: red; font-family: Arial; font-size: 2em; text-shadow: 2px 2px 4px black;">Amogus</span>
-
+<head>
+  <style>
+    /* Style for the fancy title */
+    .fancy-title {
+      text-align: center;
+      font-family: 'Arial', sans-serif;
+      font-size: 3em;
+      color: #FF0000; /* Red color */
+      text-shadow: 2px 2px 4px #000000; /* Adds a shadow effect */
+      letter-spacing: 4px;
+    }
+  </style>
+</head>
+<body>
+  <h1 class="fancy-title">Amogus</h1>
+</body>
 
 <h1 align="center">Hi, I'm Andrea</h1>
 <h3 align="center">idk what I'm doing.</h3>
