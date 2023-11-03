@@ -68,3 +68,32 @@
 
 
 
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        /* Remove underline/border from the images */
+        img {
+            border: none;
+            outline: none;
+        }
+    </style>
+</head>
+<body>
+    <h3 align="left">Languages and Tools:</h3>
+    <p align="left">
+        <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/>
+        </a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="60" height="60"/>
+        </a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="60" height="60"/>
+        </a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <!-- Add other image links with the same structure -->
+    </p>
+</body>
+</html>
+
