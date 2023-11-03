@@ -24,6 +24,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur gravida odio 
 </div>
 
 
+# <span style="color: red; font-family: Arial; font-size: 2em; text-shadow: 2px 2px 4px black;">Amogus</span>
+
 
 <h1 align="center">Hi, I'm Andrea</h1>
 <h3 align="center">idk what I'm doing.</h3>
