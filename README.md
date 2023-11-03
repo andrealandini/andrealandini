@@ -22,6 +22,11 @@
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur gravida odio vel dui porta, non suscipit mauris lacinia. Sed commodo tortor at lectus suscipit fermentum. Sed pharetra sem eu augue consequat, et lacinia nibh ullamcorper. Ut euismod, ex a tincidunt viverra, nisl elit cursus nunc, sit amet consequat turpis sapien vel nunc. Vivamus dapibus lorem id risus volutpat, sit amet fringilla lectus dictum.
 </div>
 
+<div style="text-align: justify; text-justify: inter-word;">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur gravida odio vel dui porta, non suscipit mauris lacinia. Sed commodo tortor at lectus suscipit fermentum. Sed pharetra sem eu augue consequat, et lacinia nibh ullamcorper. Ut euismod, ex a tincidunt viverra, nisl elit cursus nunc, sit amet consequat turpis sapien vel nunc. Vivamus dapibus lorem id risus volutpat, sit amet fringilla lectus dictum.
+</div>
+
+
 
 <h1 align="center">Hi, I'm Andrea</h1>
 <h3 align="center">idk what I'm doing.</h3>
