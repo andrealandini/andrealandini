@@ -21,7 +21,7 @@
 
 <h1 align="center">Hi, I'm Andrea</h1>
 <h3 align="center">idk what I'm doing.</h3>
-
+Welcome to my GitHub profile! Here, you'll find a collection of projects that reflect my passion for innovation, problem-solving, and continuous learning in the world of technology. I am dedicated to creating impactful and versatile solutions, ranging from software development to various technological experiments. My repositories showcase a diverse range of interests, from web development, machine learning, and data analysis to various tools and utilities. I believe in the power of collaboration and open-source contributions, and I'm enthusiastic about sharing knowledge and fostering a vibrant community. Feel free to explore the repositories, contribute, or provide feedback. Together, let's explore the possibilities of technology and create a more connected and innovative world.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prova" height="30" width="40"/></a>
