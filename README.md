@@ -73,3 +73,23 @@
         <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="60" height="60"/>
     </a>
 </p>
+
+
+
+
+whta 
+<style>
+    /* Remove underline/border from the images */
+    img {
+        border: none;
+        outline: none;
+    }
+</style>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="60" height="60"/>
+    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <!-- Other image links here -->
+</p>
