@@ -1,6 +1,4 @@
 
-![dude](https://github.com/andrealandini/andrealandini/assets/96867773/ec8dc0d6-32a1-43e6-a5fb-e020beb0196e)
-
 
 
 
@@ -39,19 +37,8 @@ Lorem&nbsp;ipsum&nbsp;dolor&nbsp;sit&nbsp;amet,&nbsp;consectetur&nbsp;adipiscing
 
 
 
-# <div style="text-align: center;"><h1 style="font-family: 'Times New Roman', serif; color: purple; text-shadow: 2px 2px 4px #000000; letter-spacing: 3px;">Hi, I'm Andrea</h1></div>
-
-
-# <div style="text-align: center;"><h1 style="font-family: Arial; color: #0066ff; text-shadow: 2px 2px 4px #000000; letter-spacing: 3px;">Hi, I'm Andrea</h1></div>
-
-
-
-![ContinuousMotion(1)](https://github.com/andrealandini/andrealandini/assets/96867773/d96b0df5-bcd2-4923-ba7d-e37a3ec4d08e)
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/prova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prova" height="30" width="40"/></a>
 <a href="https://stackoverflow.com/users/prova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="prova" height="30" width="40" /></a>
 <a href="https://kaggle.com/prova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prova" height="30" width="40" /></a>
