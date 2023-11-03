@@ -69,8 +69,7 @@
 
 
 
-<!DOCTYPE html>
-<html>
+
 <head>
     <style>
         /* Remove underline/border from the images */
@@ -95,5 +94,5 @@
         <!-- Add other image links with the same structure -->
     </p>
 </body>
-</html>
+
 
