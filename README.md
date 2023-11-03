@@ -18,7 +18,7 @@
 
 
 <div style="text-align: justify; text-justify: auto;">
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur gravida odio vel dui porta, non suscipit mauris lacinia. Sed commodo tortor at lectus suscipit fermentum. Sed pharetra sem eu augue consequat, et lacinia nibh ullamcorper. Ut euismod, ex a tincidunt viverra, nisl elit cursus nunc, sit amet consequat turpis sapien vel nunc. Vivamus dapibus lorem id risus volutpat, sit amet fringilla lectus dictum.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum.
 </div>
 <h1 align="center">Hi, I'm Andrea</h1>
 <div style="text-align: justify;">
