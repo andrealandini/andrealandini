@@ -1,3 +1,22 @@
+<h1 align="center">Hi, I'm Andrea</h1>
+
+
+<p align="center">
+<a href="https://linkedin.com/in/prova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prova" height="40" width="40"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/prova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="prova" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://kaggle.com/prova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prova" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/prova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prova" height="40" width="40" /></a>
+</p>
+
+
+Lorem&nbsp;ipsum&nbsp;dolor&nbsp;sit&nbsp;amet,&nbsp;consectetur&nbsp;adipiscing&nbsp;elit.&nbsp;Curabitur&nbsp;gravida&nbsp;odio&nbsp;vel&nbsp;dui&nbsp;porta,&nbsp;non&nbsp;suscipit&nbsp;mauris&nbsp;lacinia.&nbsp;Sed&nbsp;commodo&nbsp;tortor&nbsp;at&nbsp;lectus&nbsp;suscipit&nbsp;fermentum.&nbsp;Sed&nbsp;pharetra&nbsp;sem&nbsp;eu&nbsp;augue&nbsp;consequat,&nbsp;et&nbsp;lacinia&nbsp;nibh&nbsp;ullamcorper.&nbsp;Ut&nbsp;euismod,&nbsp;ex&nbsp;a&nbsp;tincidunt&nbsp;viverra,&nbsp;nisl&nbsp;elit&nbsp;cursus&nbsp;nunc,&nbsp;sit&nbsp;amet&nbsp;consequat&nbsp;turpis&nbsp;sapien&nbsp;vel&nbsp;nunc.&nbsp;Vivamus&nbsp;dapibus&nbsp;lorem&nbsp;id&nbsp;risus&nbsp;volutpat,&nbsp;sit&nbsp;amet&nbsp;fringilla&nbsp;lectus&nbsp;dictum.
+
+
+
+
+
+
+
 
 
 
@@ -24,20 +43,5 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-
-<h1 align="center">Hi, I'm Andrea</h1>
-
-
-<p align="center">
-<a href="https://linkedin.com/in/prova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prova" height="40" width="40"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/prova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="prova" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://kaggle.com/prova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prova" height="40" width="40" /></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/prova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prova" height="40" width="40" /></a>
-</p>
-
-
-Lorem&nbsp;ipsum&nbsp;dolor&nbsp;sit&nbsp;amet,&nbsp;consectetur&nbsp;adipiscing&nbsp;elit.&nbsp;Curabitur&nbsp;gravida&nbsp;odio&nbsp;vel&nbsp;dui&nbsp;porta,&nbsp;non&nbsp;suscipit&nbsp;mauris&nbsp;lacinia.&nbsp;Sed&nbsp;commodo&nbsp;tortor&nbsp;at&nbsp;lectus&nbsp;suscipit&nbsp;fermentum.&nbsp;Sed&nbsp;pharetra&nbsp;sem&nbsp;eu&nbsp;augue&nbsp;consequat,&nbsp;et&nbsp;lacinia&nbsp;nibh&nbsp;ullamcorper.&nbsp;Ut&nbsp;euismod,&nbsp;ex&nbsp;a&nbsp;tincidunt&nbsp;viverra,&nbsp;nisl&nbsp;elit&nbsp;cursus&nbsp;nunc,&nbsp;sit&nbsp;amet&nbsp;consequat&nbsp;turpis&nbsp;sapien&nbsp;vel&nbsp;nunc.&nbsp;Vivamus&nbsp;dapibus&nbsp;lorem&nbsp;id&nbsp;risus&nbsp;volutpat,&nbsp;sit&nbsp;amet&nbsp;fringilla&nbsp;lectus&nbsp;dictum.
-
 
 
