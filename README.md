@@ -22,25 +22,8 @@ Lorem&nbsp;ipsum&nbsp;dolor&nbsp;sit&nbsp;amet,&nbsp;consectetur&nbsp;adipiscing
 <div class="justified-text">
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur gravida odio vel dui porta, non suscipit mauris lacinia. Sed commodo tortor at lectus suscipit fermentum. Sed pharetra sem eu augue consequat, et lacinia nibh ullamcorper. Ut euismod, ex a tincidunt viverra, nisl elit cursus nunc, sit amet consequat turpis sapien vel nunc. Vivamus dapibus lorem id risus volutpat, sit amet fringilla lectus dictum.
 </div>
+# <p style="text-align: center; font-family: Arial; font-size: 2em; color: #0066ff; text-shadow: 2px 2px 4px #000000; letter-spacing: 3px;">Hi, I'm Andrea</p>
 
-
-# <span style="color: red; font-family: Arial; font-size: 2em; text-shadow: 2px 2px 4px black;">Amogus</span>
-<head>
-  <style>
-    /* Style for the fancy title */
-    .fancy-title {
-      text-align: center;
-      font-family: 'Arial', sans-serif;
-      font-size: 3em;
-      color: #FF0000; /* Red color */
-      text-shadow: 2px 2px 4px #000000; /* Adds a shadow effect */
-      letter-spacing: 4px;
-    }
-  </style>
-</head>
-<body>
-  <h1 class="fancy-title">Amogus</h1>
-</body>
 
 <h1 align="center">Hi, I'm Andrea</h1>
 <h3 align="center">idk what I'm doing.</h3>
