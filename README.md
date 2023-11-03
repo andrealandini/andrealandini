@@ -1,4 +1,5 @@
 
+![dude](https://github.com/andrealandini/andrealandini/assets/96867773/ec8dc0d6-32a1-43e6-a5fb-e020beb0196e)
 
 
 
