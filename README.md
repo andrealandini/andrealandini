@@ -18,7 +18,7 @@
 
 
 
-<div style="text-align: justify; text-justify: inter-word;">
+<div style="text-align: justify; text-justify: auto;">
 Welcome to my GitHub profile! Here, you'll find a collection of projects that reflect my passion for innovation, problem-solving, and continuous learning in the world of technology. I am dedicated to creating impactful and versatile solutions, ranging from software development to various technological experiments. My repositories showcase a diverse range of interests, from web development, machine learning, and data analysis to various tools and utilities. I believe in the power of collaboration and open-source contributions, and I'm enthusiastic about sharing knowledge and fostering a vibrant community. Feel free to explore the repositories, contribute, or provide feedback. Together, let's explore the possibilities of technology and create a more connected and innovative world.
 </div>
 
