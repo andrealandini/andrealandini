@@ -1,8 +1,7 @@
 
 
+![finally](https://github.com/andrealandini/andrealandini/assets/96867773/1d63c8ab-1ac3-41ab-9427-1079de2afb02)
 
-
-![spinning-graphs](https://github.com/andrealandini/andrealandini/assets/96867773/06db8b8d-86b3-4992-9db2-0115c3ce2961)
 <h1 align="center">Hi, I'm Andrea Landini. Welcome on my GitHub</h1>
 
 
