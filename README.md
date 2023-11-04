@@ -11,13 +11,11 @@
 <a href="https://www.kaggle.com/andrealandini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prova" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/lando.on.insta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prova" height="40" width="40" /></a>
 </p>
+## About Me
 
+I'm an economics and finance student with a passion for programming. Currently engaged in the professional sphere, I've found that programming languages offer an incredible opportunity to augment my productivity and broaden my capabilities in tackling projects that were once considered unattainable. Viewing coding as a powerful tool to optimize workflows and expand problem-solving horizons, I'm dedicated to utilizing my background in economics and finance to explore the intersection of these fields with the realm of technology and programming.
 
-Lorem&nbsp;ipsum&nbsp;dolor&nbsp;sit&nbsp;amet,&nbsp;consectetur&nbsp;adipiscing&nbsp;elit.&nbsp;Curabitur&nbsp;gravida&nbsp;odio&nbsp;vel&nbsp;dui&nbsp;porta,&nbsp;non&nbsp;suscipit&nbsp;mauris&nbsp;lacinia.&nbsp;Sed&nbsp;commodo&nbsp;tortor&nbsp;at&nbsp;lectus&nbsp;suscipit&nbsp;fermentum.&nbsp;Sed&nbsp;pharetra&nbsp;sem&nbsp;eu&nbsp;augue&nbsp;consequat,&nbsp;et&nbsp;lacinia&nbsp;nibh&nbsp;ullamcorper.&nbsp;Ut&nbsp;euismod,&nbsp;ex&nbsp;a&nbsp;tincidunt&nbsp;viverra,&nbsp;nisl&nbsp;elit&nbsp;cursus&nbsp;nunc,&nbsp;sit&nbsp;amet&nbsp;consequat&nbsp;turpis&nbsp;sapien&nbsp;vel&nbsp;nunc.&nbsp;Vivamus&nbsp;dapibus&nbsp;lorem&nbsp;id&nbsp;risus&nbsp;volutpat,&nbsp;sit&nbsp;amet&nbsp;fringilla&nbsp;lectus&nbsp;dictum.
-
-
-
-
+Feel free to connect with me to discuss collaborations, projects, or anything related to economics, finance, or programming. I'm open to learning, sharing knowledge, and exploring new opportunities!
 
 
 
