@@ -11,7 +11,8 @@
 <a href="https://www.kaggle.com/andrealandini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prova" height="40" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/lando.on.insta/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prova" height="40" width="40" /></a>
 </p>
-## About Me
+
+
 
 I'm an economics and finance student with a passion for programming. Currently engaged in the professional sphere, I've found that programming languages offer an incredible opportunity to augment my productivity and broaden my capabilities in tackling projects that were once considered unattainable. Viewing coding as a powerful tool to optimize workflows and expand problem-solving horizons, I'm dedicated to utilizing my background in economics and finance to explore the intersection of these fields with the realm of technology and programming.
 
