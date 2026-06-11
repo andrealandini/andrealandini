@@ -1,0 +1,13 @@
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+
+# personal documents (contains phone, DOB, address: keep private)
+resume.pdf
+
+# os / build cruft
+.DS_Store
+.dist/
